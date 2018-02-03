@@ -1,0 +1,16 @@
+body{
+  font-family: sans-serif;
+  align-content: center;
+}
+
+button{
+  border: 1px solid black;
+  padding: 8px;
+  font: innherit;
+  cursor: pointer;
+  outline: none;
+}
+
+button:hover{
+  background-color: #ccc;
+}
