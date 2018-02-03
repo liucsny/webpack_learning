@@ -12,5 +12,7 @@ button{
 }
 
 button:hover{
-  background-color: #ccc;
+  background-color: #664499;
+  color: white;
+  boader: none;
 }
